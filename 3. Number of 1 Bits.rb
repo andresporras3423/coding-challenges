@@ -8,3 +8,9 @@ def hamming_weight(n)
   end
   count
 end
+
+# def numbers
+#   nums = []
+#   (1..18).each{|n| nums.push(n)}
+#   nums.sample(10).sort()
+# end

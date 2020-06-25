@@ -8,7 +8,11 @@ In this repo I will be adding the solution of some coding challenges, both the c
 
 https://www.loom.com/share/235f6d4d8ac840db857010b00a97a207
 
-### 2.  Number of 1 Bits
+### 2. Contains duplicate
+
+https://www.youtube.com/watch?v=9RntMPgKm80&feature=youtu.be
+
+### 3.  Number of 1 Bits
 
 https://www.loom.com/share/235f6d4d8ac840db857010b00a97a207
 
