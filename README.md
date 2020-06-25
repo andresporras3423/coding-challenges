@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=9RntMPgKm80&feature=youtu.be
 
 ### 3.  Number of 1 Bits
 
-https://www.loom.com/share/235f6d4d8ac840db857010b00a97a207
+https://www.loom.com/share/d379afff17114b63b26a2f2c88df38d0
 
 ## Authors
 
