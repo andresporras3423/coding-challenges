@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=9RntMPgKm80&feature=youtu.be
 
 https://www.loom.com/share/d379afff17114b63b26a2f2c88df38d0
 
+### 4. Counting Bits
+
+https://youtu.be/NuplfvDlinM 
+
 ## Authors
 
 **Oscar Russi**
