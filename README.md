@@ -20,6 +20,14 @@ https://www.loom.com/share/d379afff17114b63b26a2f2c88df38d0
 
 https://youtu.be/NuplfvDlinM 
 
+### 5. course schedule
+
+https://www.loom.com/share/5678d3e7abee4782a1eff485b65756da
+
+### 6. Pacific atlantic water flow
+
+https://www.loom.com/share/8951c49ab53c4100ab28871dff363452
+
 ## Authors
 
 **Oscar Russi**
