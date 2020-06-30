@@ -28,6 +28,12 @@ https://www.loom.com/share/5678d3e7abee4782a1eff485b65756da
 
 https://www.loom.com/share/8951c49ab53c4100ab28871dff363452
 
+### 7.
+
+### 8
+
+https://www.loom.com/share/c69b2c65d963436ab2dbe1a45a2cb676
+
 ## Authors
 
 **Oscar Russi**
