@@ -38,6 +38,10 @@ https://www.loom.com/share/c69b2c65d963436ab2dbe1a45a2cb676
 
 https://www.loom.com/share/5f34d2f9d02b45c1b6ac1a1592b2e0a9
 
+### 10. Insert Interval
+
+https://www.loom.com/share/ff780a32a82e48c6b982c1a20d78147b
+
 ## Authors
 
 **Oscar Russi**
