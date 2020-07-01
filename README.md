@@ -4,37 +4,37 @@ In this repo I will be adding the solution of some coding challenges, both the c
 
 ## Video Presentation of solutions
 
-### 1. Best Time to Buy and Sell Stock
+### 01. Best Time to Buy and Sell Stock
 
 https://www.loom.com/share/235f6d4d8ac840db857010b00a97a207
 
-### 2. Contains duplicate
+### 02. Contains duplicate
 
 https://www.youtube.com/watch?v=9RntMPgKm80&feature=youtu.be
 
-### 3.  Number of 1 Bits
+### 03.  Number of 1 Bits
 
 https://www.loom.com/share/d379afff17114b63b26a2f2c88df38d0
 
-### 4. Counting Bits
+### 04. Counting Bits
 
 https://youtu.be/NuplfvDlinM 
 
-### 5. course schedule
+### 05. course schedule
 
 https://www.loom.com/share/5678d3e7abee4782a1eff485b65756da
 
-### 6. Pacific atlantic water flow
+### 06. Pacific atlantic water flow
 
 https://www.loom.com/share/8951c49ab53c4100ab28871dff363452
 
-### 7.
+### 07.
 
-### 8. merge k sorted list
+### 08. merge k sorted list
 
 https://www.loom.com/share/c69b2c65d963436ab2dbe1a45a2cb676
 
-### 9. Non-overlapping interval
+### 09. Non-overlapping interval
 
 https://www.loom.com/share/5f34d2f9d02b45c1b6ac1a1592b2e0a9
 
