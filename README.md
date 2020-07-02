@@ -42,6 +42,14 @@ https://www.loom.com/share/5f34d2f9d02b45c1b6ac1a1592b2e0a9
 
 https://www.loom.com/share/ff780a32a82e48c6b982c1a20d78147b
 
+### 11. Design HashMap
+
+https://www.loom.com/share/461932547c3c46dc8e2ba7859a966a6f
+
+### 12. Find all anagrams
+
+https://www.loom.com/share/c5935409e59a4bd4919b1a4907681048
+
 ## Authors
 
 **Oscar Russi**
