@@ -50,6 +50,14 @@ https://www.loom.com/share/461932547c3c46dc8e2ba7859a966a6f
 
 https://www.loom.com/share/c5935409e59a4bd4919b1a4907681048
 
+### 13. Remove Nth Node From End of List
+
+https://www.loom.com/share/290cabe4fae6474fb85b4dcc82c87347
+
+### 14. Merge Two Sorted Lists
+
+https://www.loom.com/share/4e8e752797ac4d2d97be99a9e334e3da
+
 ## Authors
 
 **Oscar Russi**
