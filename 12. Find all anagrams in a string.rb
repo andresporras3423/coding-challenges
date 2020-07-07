@@ -2,30 +2,39 @@
 # @param {String} p
 # @return {Integer[]}
 def find_anagrams(s, p)
-  comb = Hash.new
-  p.split("").each do |p0|
-      if comb[p0].nil?
-          comb[p0]=1
-      else
-          comb[p0]+=1
-      end
-  end
-  sol=[]
-  sArray = s.split("")
-  pArray = p.split("")
-  (0..sArray.length-pArray.length).each do |i|
-      comb_clone = comb.clone
-      is_sol=true
-      (i...pArray.length+i).each do |j|
-          if comb_clone[sArray[j]]!=nil && comb_clone[sArray[j]]>0
-              comb_clone[sArray[j]]-=1
-          else
-              is_sol=false
-              break
-          end
-      end
-      #p is_sol
-      sol.push(i) if is_sol
-  end
-  sol
+    pArray = p.split("")
+    sArray = s.split("")
+    pLength=pArray.length
+    chars = Hash.new
+    subString=Hash.new
+    alphabet = "abcdefghijklmnopqrstuvwxyz"
+    alphabet.split("").each do |a| 
+        chars[a]=0
+        subString[a]=0
+    end
+    pArray.each{|p| chars[p]+=1}
+    sol=[]
+    sArray.each_with_index do |s0, i|
+        
+       if(i<pLength)
+           subString[s0]+=1
+       else
+           sol.push(i-pLength) if same_hash(chars, subString)  
+           subString[sArray[i-pLength]]-=1
+           subString[s0]+=1
+       end
+    end
+    sol.push(sArray.length-pLength) if same_hash(chars, subString)
+    sol
+end
+
+def same_hash(chars, subString)
+    #p chars
+    #p subString
+    chars.each_key do |key|
+        if chars[key]!=subString[key]
+            return false
+        end
+    end
+    return true
 end
