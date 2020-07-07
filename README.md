@@ -62,7 +62,13 @@ https://www.loom.com/share/4e8e752797ac4d2d97be99a9e334e3da
 
 ### 16. time scheduler
 
-https://leetcode.com/problems/task-scheduler/
+https://www.loom.com/share/4676ab4de84e442bb8d2b6d3d80639ee
+
+### 19.
+
+### 20. Search insert position
+
+https://www.loom.com/share/82c9fc198cf641d9b721ee0decc279b1
 
 ## Authors
 
