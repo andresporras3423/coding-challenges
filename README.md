@@ -60,7 +60,7 @@ https://www.loom.com/share/4e8e752797ac4d2d97be99a9e334e3da
 
 ### 15.
 
-### 16. time scheduler
+### 16. task scheduler
 
 https://www.loom.com/share/4676ab4de84e442bb8d2b6d3d80639ee
 
