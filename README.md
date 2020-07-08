@@ -74,6 +74,10 @@ https://www.loom.com/share/82c9fc198cf641d9b721ee0decc279b1
 
 https://www.loom.com/share/d96070fc7e0f4e88ba534b89055cbad0
 
+### 20. Kth Smallest Element in a BST
+
+https://www.loom.com/share/044d1ae08ae34dd0973986b2feb7f588
+
 ## Authors
 
 **Oscar Russi**
